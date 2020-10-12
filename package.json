@@ -1,0 +1,17 @@
+{
+    "name": "com.sacristan.canvasscalerutil",
+    "version": "1.0.0",
+    "displayName": "Canvas Scaler Util",
+    "description": "Worldspace Canvas Scaler Utility",
+    "unity": "2018.1",
+    "keywords": [
+        "ui",
+        "canvas",
+        "scaler"
+    ],
+    "author": {
+        "name": "Ģirts 'Sacristan' Ķesteris",
+        "email": "girts.kesteris@gmail.com",
+        "url": "https://girtskesteris.xyz"
+    }
+}

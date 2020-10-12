@@ -1,0 +1,15 @@
+{
+    "name": "Sacristan.CanvasScalerEditor",
+    "references": [
+        "GUID:cc8717f2e4023414fa684c1e600f2a1d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
