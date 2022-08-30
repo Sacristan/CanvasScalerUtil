@@ -1,6 +1,6 @@
 {
     "name": "com.sacristan.canvasscalerutil",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "displayName": "Canvas Scaler Util",
     "description": "Worldspace Canvas Scaler Utility",
     "unity": "2018.1",

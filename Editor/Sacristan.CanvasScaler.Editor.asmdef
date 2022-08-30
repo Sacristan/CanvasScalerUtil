@@ -1,9 +1,12 @@
 {
-    "name": "Sacristan.CanvasScalerEditor",
+    "name": "Sacristan.CanvasScaler.Editor",
+    "rootNamespace": "",
     "references": [
-        "GUID:cc8717f2e4023414fa684c1e600f2a1d"
+        "Sacristan.CanvasScaler"
     ],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
